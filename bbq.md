@@ -3,7 +3,9 @@
 At 2201 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luckily, we were able to extract the memory of practice keyers used around the site. We only have fragments of sent QSOs, but it might be enough. We need you to travel around the site, decode the CW from each of the eight recordings, and solve the mystery of who took the BBQ sauce before it's time for the big dinner. Pay attention to the evidence tags on each device, there may be clues to be had from the time and location information. Use this sheet to record your clues, profile the five suspects, and solve the crime.
 
 ## Copied Clues
+
 | Clue Number | Time | Location | Copied Text |
+| --- | --- | --- | --- |
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
